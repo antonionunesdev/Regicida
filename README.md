@@ -14,6 +14,7 @@ III) Fase de Expansão
 
 IV) Fase do Corvo e da Intriga
         Após o preenchimento do tabuleiro, as pontuações de todas as peças serão reveladas. Você terá a oportunidade de realizar seis intrigas, que significa manipular a posição das peças, para que o tabuleiro fique com a pontuação correta de cada peça, de acordo com os seguintes modos:
+        
            [#][#][#][#][#][#]           [ ][ ][ ][ ][ ][ ]
            [#][ ][ ][ ][ ][#]           [ ][#][#][#][#][ ]
            [#][ ][ ][ ][ ][#]           [ ][#][#][#][#][ ]
