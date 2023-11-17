@@ -15,11 +15,11 @@ III) Fase de Expansão
 IV) Fase do Corvo e da Intriga
 >Após o preenchimento do tabuleiro, as pontuações de todas as peças serão reveladas. Você terá a oportunidade de realizar seis intrigas, que significa manipular a posição das peças, para que o tabuleiro fique com a pontuação correta de cada peça, de acordo com os seguintes modos:
            >[#][#][#][#][#][#]           [ ][ ][ ][ ][ ][ ]
-           [#][ ][ ][ ][ ][#]           [ ][#][#][#][#][ ]
-           [#][ ][ ][ ][ ][#]           [ ][#][#][#][#][ ]
-           [#][ ][ ][ ][ ][#]           [ ][#][#][#][#][ ]
-           [#][ ][ ][ ][ ][#]           [ ][#][#][#][#][ ]
-           [#][#][#][#][#][#]           [ ][ ][ ][ ][ ][ ]
+           >[#][ ][ ][ ][ ][#]           [ ][#][#][#][#][ ]
+           >[#][ ][ ][ ][ ][#]           [ ][#][#][#][#][ ]
+           >[#][ ][ ][ ][ ][#]           [ ][#][#][#][#][ ]
+           >[#][ ][ ][ ][ ][#]           [ ][#][#][#][#][ ]
+           >[#][#][#][#][#][#]           [ ][ ][ ][ ][ ][ ]
          Controle das Fronteiras       Concentração Central
 
 >Você deve escolher duas fichas adjacentes para trocá-las de lugar. Em seguida deve trancar uma das duas peças selecionadas, e por último trancar uma das cores que as duas peças possuem. Após trancar a peça no tabuleiro, esta não poderá mais ser mexida de forma alguma. Após trancar a cor, você somente não poderá mais mexer em peças daquela cor se tentar mexer com outra peça na qual sua cor também está trancada.
