@@ -7,7 +7,7 @@ I) Visão Geral
         Você representa o Titereiro, figura enigmática e muito influente. Após quatro Fases (Preparação, Expansão, Corvo e Intriga) você vencerá a partida se conseguir colocar cada Casa na pontuação definida no começo da partida. Evitando, assim, a guerra.
 
 II) Preparação
-        Escolha o modo de jogo e a dificuldade, que é quem define a quantidade de peças que poderão ter sua pontuação revelada.
+Escolha o modo de jogo e a dificuldade, que é quem define a quantidade de peças que poderão ter sua pontuação revelada.
 
 III) Fase de Expansão
         Nessa fase, você irá preencher o tabuleiro 11x11, por meio das coordenadas, com as peças que forem entregues pelo sistema, de modo que o tabuleiro fique preenchido no formato 6x6 ao final. Você deve inserir as peças em casas adjacentes às que já possuem alguma peça inserida.
