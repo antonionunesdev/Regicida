@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1697076294 source:c:\users\guido e ageu\desktop\gido\projetos\projeto_programacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<locale.h>
+	<windows.h>
+	<mmsystem.h>
+
+1698626098 source:c:\users\guido e ageu\desktop\gido\projetos\regicida\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<locale.h>
+	<windows.h>
+	<mmsystem.h>
+
+1698154675 source:c:\users\ufca\desktop\liberada\gido_nao_mexe_plmds_coisa_importante\regicida\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<locale.h>
+	<windows.h>
+	<mmsystem.h>
+
