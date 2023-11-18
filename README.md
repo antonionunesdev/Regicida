@@ -1,5 +1,5 @@
 # Regicida
-O Regicida é um projeto de programação em C, que foi criado durante a disciplina de Introdução à Programação no curso de Ciência da Computação da UFCA. Foi realizado em grupo com meus amigos Arthur Lôbo e Guido Xenofonte, e idealizado pelo professor Roberto Pinheiro, ministrante da disciplina.
+O Regicida é um projeto de programação em C, que foi criado durante a disciplina de Introdução à Programação no curso de Ciência da Computação da UFCA. Foi realizado em grupo com [Guido Xenofonte](https://github.com/guidoxenofonte2005) e [Arthur Lôbo](https://github.com/OArthr), e idealizado pelo professor [Roberto Pinheiro](https://pinheirobg.com/index.php/portfolio/regicida/), ministrante da disciplina.
 
 As Casas estão disputando ferozmente pelo Trono. Resta você, dono de todos os segredos, manipular vassalos e nobres para chegar num resultado que, apesar de não agradar a todos, trará paz. Entretanto, o tempo é escasso e algumas das suas preciosas informações tardam a chegar. Você precisará trabalhar com incertezas por um momento. E quando as informações chegarem, talvez seja tarde demais para reverter a situação. A guerra pode estar mais perto do que nunca e a única pessoa capaz de evitá-la é você.
 
